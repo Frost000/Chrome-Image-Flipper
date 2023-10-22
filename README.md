@@ -1,6 +1,6 @@
 # Chrome-Image-Flipper
 
-Small Chrome extension used to flip images vertically or horizontally.
+Chrome extension used to flip images vertically or horizontally and open in new tabs for better browsing.
 
 # How to
 
